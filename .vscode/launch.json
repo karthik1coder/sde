@@ -1,0 +1,18 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Run Task2 Main",
+            "request": "launch",
+            "mainClass": "roadmap.week4.task2.Main"
+        }
+    ]
+}
